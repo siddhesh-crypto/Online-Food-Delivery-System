@@ -14,7 +14,7 @@ import java.util.List;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-@Table(name="orders")
+@Table(name = "orders")
 public class Order {
 
     @Id
@@ -40,7 +40,7 @@ public class Order {
     @OneToMany
     private List<OrderItem> items;
 
-//    private Payment payment
+    // private Payment payment
 
     private int totalItem;
 
