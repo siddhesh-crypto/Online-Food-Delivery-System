@@ -3,7 +3,7 @@
 ### Technology (Springboot + react)
 
 - React
-- Springboot 3
+- Springboot 3.0
 - role base access (ROLE_CUSTOMER, ROLE_RESTAURANT_OWNER)
 - Spring starter mai;
 - json web token
