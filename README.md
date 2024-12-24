@@ -1,19 +1,18 @@
 # Online Food Delivery Project
 
-### Technology (mern)
+### Technology (Springboot + react)
 
 - React
-- node js
-- express js
+- Springboot 3
 - role base access (ROLE_CUSTOMER, ROLE_RESTAURANT_OWNER)
-- nodemailer
-- jeson web token
-- mongoDB(Data base)
+- Spring starter mai;
+- json web token
+- My SQL (Data base)
 - Tailwind css
 - Mui (css component library)
 - Redux (State managment library)
 - Axios
-- strip payment gatway
+- stripe payment gatway
 
 ### Tools
 
